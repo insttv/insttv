@@ -1,0 +1,89 @@
+Paso a seguir:
+Paso1
+
+yum install cpan
+
+Paso2
+
+yum install perl
+
+paso3
+
+clear
+
+paso4
+
+chmod 777 *
+
+paso5
+
+ls
+
+paso6
+
+perl angelito.pl ip puerto paquetes
+----------------------------------------------------------
+https://labs.play-with-k8s.com/ https://training.play-with-kubernetes.com/  ---- https://training.play-with-kubernetes.com/kubernetes-workshop/ vps por 4 horas
+
+docker run -p 6080:80 dorowu/ubuntu-desktop-lxde-vnc   ( para ponerlo vps)
+
+
+
+otro https://www.katacoda.com/courses/docker 
+github rbrakusj_n688t@umail2.com  clave c4TK89123      https://emailtemporal.org/
+git clone https://github.com/instint/tumbar
+
+https://www.youtube.com/watch?v=Wk9RjRW66c4
+
+yum install cpan
+yum install perl
+git clone https://github.com/instint1/tumbar1    instint1 c4TK8914-
+https://github.com/instint2/asda  
+https://github.com/inst259/instint2     rbrakusj_n688t@kewip.com
+chmod 777 *
+ls 
+                                       cd instint2
+perl GB .....
+
+apk add cpan
+apk add perl
+git clone https://github.com/instint1/tumbar1    instint1 c4TK8914-
+ o https://github.com/instint2/asda       
+chmod 777 *
+perl GB .....
+
+yum install cpan
+yum install perl
+git clone https://github.com/MambaAgar/Xtream-Script
+cd Xtream-Script
+chmod 777 *
+./start
+https://www.youtube.com/watch?v=5dcwyOMWXJA
+
+-----------------------------------------------------------------
+https://www.katacoda.com/courses/docker/playground    --- 
+apt install cpan
+apt install perl
+git clone https://github.com/instint1/tumbar1    instint1 c4TK8914-       
+cd tutorial cd tumbar1 
+chmod 777 *
+perl GB
+
+////https://codeanywhere.com/
+nafip74298@hxqmail.com   a1s2d3f4g5h6
+*** poner  adelante 
+sudo yum install cpan
+sudo yum install perl
+git clone https://github.com/instint1/tumbar1       instint1 c4TK8914-
+chmod 777 *
+perl GB .....
+
+kanaya@fxsuppose.com  
+jadrien9@fxsuppose.com usar esta en cloudsigma     https://www.emailondeck.com/es/email.php?msg_id=68496349
+
+181.64.101.150  sdads 190.233.151.62
+
+
+aruba cloud 
+julius58n_q823s@zmat.xyz    https://correotemporal.org/
+11427359@aruba.it  user AWI-261805 a1s2d3f4g5h6
